@@ -1,5 +1,8 @@
 {
   "hello-world": {
      "component": "HelloWorld"
+   },
+   "form-work-with-us": {
+    "component": "FormWorkWithUsWrapper"
    }
 }
